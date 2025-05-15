@@ -7,9 +7,9 @@ Find that phrase in the .srt file -
 there will be an index number, an associated start time and end time for the subtitle to be displayed, then the subtitle text, 
 e.g.
 
-#       27
-#       00:01:55,333 --> 00:01:57,402
-#       Make sure he gets back alive.
+_       27
+       00:01:55,333 --> 00:01:57,402
+       Make sure he gets back alive._
 
  *** Note that the timing format is hh:mm:ss,milliseconds - This script ignores the milliseconds.
  Subtract the video elapsed time from the .srt entry time , e.g. 01:32 - 01:55
